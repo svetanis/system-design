@@ -26,10 +26,11 @@ Deep Dive: Focus on data schemas, sharding, and replication.
 Identify Bottlenecks: Address single points of failure and monitoring.
 
 # 📂 Popular Design Questions
-Design a URL Shortener (TinyURL).
 
-Design a Rate Limiter.
+## Design a URL Shortener (TinyURL).
 
-Design a News Feed (Facebook/Twitter).
+## [Design a Rate Limiter](https://github.com/svetanis/system-design/tree/main/rate-limiter)
 
-Design a Web Crawler.
+## Design a News Feed (Facebook/Twitter).
+
+## Design a Web Crawler.
