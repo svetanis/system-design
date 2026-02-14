@@ -23,6 +23,6 @@ eventual consistency is ok.
 ```java
 isRequestAllowed(clientId, ruleId) -> (boolean, remaining : long, resetTime : timestamp)
 ```
-## [Low Level Design] (https://github.com/svetanis/low-level-design/tree/master/src/main/java/com/svetanis/ood/ratelimiter)
+## [Low Level Design](https://github.com/svetanis/low-level-design/tree/master/src/main/java/com/svetanis/ood/ratelimiter)
 
 ## [High Level Design](https://github.com/svetanis/system-design/blob/main/rate-limiter/RateLimiter-HLD.png)
