@@ -16,7 +16,7 @@ Databases: Choosing between SQL (Postgres) and NoSQL (Cassandra/MongoDB).
 
 Messaging: Decoupling services with Kafka and RabbitMQ.
 
-#📝 Interview Framework
+# 📝 Interview Framework
 Understand the Problem: Clarify goals and scale (DAU, QPS).
 
 High-Level Design: Sketch the end-to-end flow.
@@ -25,7 +25,7 @@ Deep Dive: Focus on data schemas, sharding, and replication.
 
 Identify Bottlenecks: Address single points of failure and monitoring.
 
-#📂 Popular Design Questions
+# 📂 Popular Design Questions
 Design a URL Shortener (TinyURL).
 
 Design a Rate Limiter.
