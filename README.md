@@ -1,29 +1,43 @@
 # System Design Interview Prep 🏗️
 Master the System Design Interview with a structured framework. 
-This repository covers step-by-step solutions to popular design questions 
-and explores the core components of distributed systems.
+This repository covers step-by-step solutions to popular design 
+questions and explores the core components of distributed systems.
 
 # 🎯 Project Goal
-To provide a clear, repeatable roadmap for navigating 45-minute architectural interviews, 
-from gathering requirements to identifying bottlenecks.
+To provide a clear, repeatable roadmap for navigating 45-minute architectural 
+interviews, from gathering requirements to identifying bottlenecks.
 
-# 🧩 Core Components
-Load Balancing: Distributing traffic via Nginx or HAProxy.
+# 🚀 Core Principles
+Understanding the trade-offs is the heart of system design.
 
-Caching: Improving latency with Redis and Memcached.
+**Scalability:** Handling increased load by adding resources
 
-Databases: Choosing between SQL (Postgres) and NoSQL (Cassandra/MongoDB).
+**Availability:** Ensuring the system remains operational
 
-Messaging: Decoupling services with Kafka and RabbitMQ.
+**Reliability:** The system performs its intended function under specific conditions
+
+**Maintainability:** Ease of evolving and fixing the system over time
+
+# 🛠️ System Components
+
+**Load Balancing:** Distributing traffic across servers
+
+**Caching:** Improving latency with high-speed data storage layer
+
+**Databases:** Relational and Non-Relational storage
+
+**Messaging:** Decoupling services with asynchronous communication 
 
 # 📝 Interview Framework
-Understand the Problem: Clarify goals and scale (DAU, QPS).
+When tackling a design problem, follow this structured approach:
 
-High-Level Design: Sketch the end-to-end flow.
+**Understand the Problem:** Clarify goals and scale (DAU, QPS).
 
-Deep Dive: Focus on data schemas, sharding, and replication.
+**High-Level Design:** Draw the primary components and end-to-end data flow
 
-Identify Bottlenecks: Address single points of failure and monitoring.
+**Deep Dive:** Scaling specific components (e.g., Database sharding, Cache eviction).
+
+**Bottlenecks:** Identifying and mitigating single points of failure.
 
 # 📂 Popular Design Questions
 
