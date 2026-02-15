@@ -25,7 +25,7 @@ isRequestAllowed(clientId, ruleId) -> (boolean, remaining : long, resetTime : ti
 ```
 ## [Low Level Design](https://github.com/svetanis/low-level-design/tree/master/src/main/java/com/svetanis/ood/ratelimiter)
 
-## [High Level Design](https://github.com/svetanis/system-design/blob/main/rate-limiter/RateLimiter-HLD.png)
+## [High Level Design](https://github.com/svetanis/system-design/blob/main/rate-limiter/high-level-design.png)
 
 ## [NotebookLM Slides](https://github.com/svetanis/system-design/blob/main/rate-limiter/slides.pdf)
 
