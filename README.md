@@ -41,9 +41,9 @@ When tackling a design problem, follow this structured approach:
 
 # 📂 Popular Design Questions
 
-## "Hello world" of System Design: URL Shortener (TinyURL)
+## "Hello world" of System Design: [URL Shortener (TinyURL)](https://github.com/svetanis/system-design/blob/main/url-shortener/README.md)
 
-## [Rate Limiter](https://github.com/svetanis/system-design/tree/main/rate-limiter)
+## [Rate Limiter](https://github.com/svetanis/system-design/blob/main/rate-limiter/README.md)
 
 ## News Feed (Facebook/Twitter)
 

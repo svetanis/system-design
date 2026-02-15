@@ -16,7 +16,7 @@
 2. Short Url
 3. User
 
-## System Interface
+## API Design
 ```java
 // 1. shorten a URL
 POST /api/v1/tiny-url/shorten -> shortUrl
