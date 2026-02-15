@@ -30,5 +30,3 @@ isRequestAllowed(clientId, ruleId) -> (boolean, remaining : long, resetTime : ti
 ## [NotebookLM Slides](https://github.com/svetanis/system-design/blob/main/rate-limiter/slides.pdf)
 
 ## [NotebookLM Diagram](https://github.com/svetanis/system-design/blob/main/rate-limiter/diagram.png)
-
-## [NotebookLM DeepDive Conversation](https://github.com/svetanis/system-design/blob/main/rate-limiter/audio.m4a)
