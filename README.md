@@ -41,10 +41,10 @@ When tackling a design problem, follow this structured approach:
 
 # 📂 Popular Design Questions
 
-## Design a URL Shortener (TinyURL).
+## "Hello world" of System Design: URL Shortener (TinyURL)
 
-## [Design a Rate Limiter](https://github.com/svetanis/system-design/tree/main/rate-limiter)
+## [Rate Limiter](https://github.com/svetanis/system-design/tree/main/rate-limiter)
 
-## Design a News Feed (Facebook/Twitter).
+## News Feed (Facebook/Twitter)
 
-## Design a Web Crawler.
+## Web Crawler
