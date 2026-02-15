@@ -30,7 +30,6 @@ POST /api/v1/tiny-url/shorten -> shortUrl
 // 2. redirection
 GET /api/v1/tiny-url/{short-url} -> HTTP 302 redirect to original url
 ```
-## REST APIs Design (upcoming)
 
 ## [High Level Design](https://github.com/svetanis/system-design/blob/main/url-shortener/high-level-design.png)
 
