@@ -45,6 +45,4 @@ When tackling a design problem, follow this structured approach:
 
 ## [Rate Limiter](https://github.com/svetanis/system-design/blob/main/rate-limiter/README.md)
 
-## News Feed (Facebook/Twitter)
-
-## Chat Messenger (WhatsApp)
+## [Chat Messenger (WhatsApp)](https://github.com/svetanis/system-design/blob/main/chat-messenger/README.md)
