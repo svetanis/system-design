@@ -16,9 +16,9 @@ messages and calls from their phones and computers.
 5. messages storage guarntee for up to 30 days
 
 ## Core Entities
-1. messages
-2. users
-3. chats
+1. Messages
+2. Users
+3. Chats
 4. Clients
 
 ## API Design
