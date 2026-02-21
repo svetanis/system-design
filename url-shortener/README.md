@@ -1,4 +1,6 @@
-# URL Shortener
+# Design a URL Shortener Like Bit.ly
+Bit.ly is a URL shotening service that converts long URLs into shorter, manageable links.
+It also provides analytics for the shortened URLs.
 
 ## Functional Requirements
 1. Users should be able to submit a long URL and receive a shortened version
