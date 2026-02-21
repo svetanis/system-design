@@ -1,4 +1,5 @@
-# Rate Limiter
+# Design a Distributed Rate Limiter
+A rate limiter controls how many requests a client can make within a specific timeframe.
 
 ## Functional Requirements
 1. The system should identify clients by user ID, IP address, or API key 
