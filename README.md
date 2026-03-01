@@ -45,4 +45,6 @@ When tackling a design problem, follow this structured approach:
 
 ## [Rate Limiter](https://github.com/svetanis/system-design/blob/main/rate-limiter/README.md)
 
+## [File Storage (Dropbox)](https://github.com/svetanis/system-design/blob/main/file-storage/README.md)
+
 ## [Chat Messenger (WhatsApp)](https://github.com/svetanis/system-design/blob/main/chat-messenger/README.md)
