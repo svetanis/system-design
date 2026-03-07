@@ -47,4 +47,6 @@ When tackling a design problem, follow this structured approach:
 
 ## [File Storage (Dropbox)](https://github.com/svetanis/system-design/blob/main/file-storage/README.md)
 
+## [Post Search (Facebook)](https://github.com/svetanis/system-design/blob/main/post-search/README.md)
+
 ## [Chat Messenger (WhatsApp)](https://github.com/svetanis/system-design/blob/main/chat-messenger/README.md)
