@@ -15,12 +15,6 @@ messages and calls from their phones and computers.
 4. fault tolerant
 5. messages storage guarntee for up to 30 days
 
-## Core Entities
-1. Messages
-2. Users
-3. Chats
-4. Clients
-
 ## API Design
 ```java
 1. WS: create chat

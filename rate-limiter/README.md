@@ -15,11 +15,6 @@ eventual consistency is ok.
 2. low latency (< 5ms)
 3. system scale: support 1M rps across 10M DAU
 
-## Core Entities
-1. Rules
-2. Requests
-3. Clients
-
 ## System Interface
 ```java
 isRequestAllowed(clientId, ruleId) -> (boolean, remaining : long, resetTime : timestamp)

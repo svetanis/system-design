@@ -13,11 +13,6 @@ It also provides analytics for the shortened URLs.
 3. system scale to support 100M DAU and 1B urls
 4. short urls should be unique
 
-## Core Entities
-1. Long (Original) Url
-2. Short Url
-3. User
-
 ## API Design
 ```java
 // 1. shorten a URL

@@ -14,12 +14,6 @@ file synchronization, personal cloud, and client software.
 4. fault tolerant upload - recover files when corrupted or interrupted
 5. system should scale for 100M DAU
 
-## Core Entities
-1. Client
-2. File
-3. File Metadata
-4. Directory
-
 ## API Design
 ```java
 1. upload file
