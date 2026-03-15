@@ -14,7 +14,7 @@ The search functionality allows them to find a specific post by keyword, with so
 3. index posts within 1 min of creation
 3. system scale: support 1B DAU and 1T posts
 
-## System Interface
+## API Design
 ```java
 1. create post 
 POST /posts
