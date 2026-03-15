@@ -45,6 +45,8 @@ When tackling a design problem, follow this structured approach:
 
 ## [Rate Limiter](https://github.com/svetanis/system-design/blob/main/rate-limiter/README.md)
 
+## [Web Crawler](https://github.com/svetanis/system-design/blob/main/web-crawler/README.md)
+
 ## [File Storage (Dropbox)](https://github.com/svetanis/system-design/blob/main/file-storage/README.md)
 
 ## [Post Search (Facebook)](https://github.com/svetanis/system-design/blob/main/post-search/README.md)
