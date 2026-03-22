@@ -52,3 +52,6 @@ When tackling a design problem, follow this structured approach:
 ## [Post Search (Facebook)](https://github.com/svetanis/system-design/blob/main/post-search/README.md)
 
 ## [Chat Messenger (WhatsApp)](https://github.com/svetanis/system-design/blob/main/chat-messenger/README.md)
+
+## [Ride Sharing (Uber)](https://github.com/svetanis/system-design/blob/main/ride-sharing/README.md)
+
