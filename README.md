@@ -55,3 +55,4 @@ When tackling a design problem, follow this structured approach:
 
 ## [Ride Sharing (Uber)](https://github.com/svetanis/system-design/blob/main/ride-sharing/README.md)
 
+## [Ticket Booking (Ticketmaster)](https://github.com/svetanis/system-design/blob/main/ticket-booking/README.md)
